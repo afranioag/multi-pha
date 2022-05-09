@@ -95,6 +95,7 @@ flex-direction: row;
 export const CheckB = Styled.TouchableOpacity`
     width: 20px;
     height: 20px;
+    border-radius: 4px;
     background-color: #E5E5E5;
 `;
 
